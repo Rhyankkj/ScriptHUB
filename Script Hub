@@ -923,13 +923,13 @@ Tab:AddButton({
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
-	setclipboard("https://discord.gg/SDj3Jkk9zd")
-	toclipboard("https://discord.gg/SDj3Jkk9zd")
+	setclipboard("https://discord.com/invite/2TWYyhSKzW")
+	toclipboard("https://discord.com/invite/2TWYyhSKzW")
   	end        
 })
 
 Tab:AddButton({
-	Name = "https://discord.gg/SDj3Jkk9zd",
+	Name = "https://discord.com/invite/2TWYyhSKzW",
 	Callback = function()
       		      		      			OrionLib:MakeNotification({
 	Name = "Sucesso!",
@@ -937,7 +937,7 @@ Tab:AddButton({
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
-	setclipboard("https://discord.gg/SDj3Jkk9zd")
-	toclipboard("https://discord.gg/SDj3Jkk9zd")
+	setclipboard("https://discord.com/invite/2TWYyhSKzW")
+	toclipboard("https://discord.com/invite/2TWYyhSKzW")
   	end    
 })
